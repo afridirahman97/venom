@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+footer-main-div{
+    width:100%;
+    height:auto;
+    margin:auto;
+    background: #272727;
+    padding: 20px 0px;
+}
+.footer-social-icons{
+    width=100%;
+    height: auto;
+    margin: auto;
+}
+.footer-social-icons ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
